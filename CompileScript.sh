@@ -12,4 +12,5 @@ echo ""
 echo "The intermediate code generated to threeaddress.txt"
 echo ""
 cat threeaddress.txt
+PING -n 11 127.0.0.1>nul
 
